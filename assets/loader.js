@@ -1,1 +1,1 @@
-void 0;
+document.body.textContent='teste';
