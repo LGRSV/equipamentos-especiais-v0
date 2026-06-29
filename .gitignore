@@ -1,0 +1,9 @@
+# Bases operacionais e exportações locais
+*.xlsx
+*.xls
+*.csv
+!data/*.json
+
+# Arquivos locais
+.DS_Store
+Thumbs.db
