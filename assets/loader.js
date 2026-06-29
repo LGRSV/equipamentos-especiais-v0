@@ -1,1 +1,1 @@
-async function a(){const b=await fetch('data');return b;}a();
+const s='document.body.textContent=\"ok\"';Function(s)();
