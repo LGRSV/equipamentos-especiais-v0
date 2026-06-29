@@ -1,1 +1,1 @@
-document.body.textContent='teste';
+async function a(){const b=await fetch('data');return b;}a();
